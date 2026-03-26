@@ -11,6 +11,10 @@ AS211298 # Pfcloud
 AS48090  # Techoff Srv Limited
 AS45899  # VNPT Corp
 AS12555  # Data-center IMAQLIQ Ltd.
+AS209605 # UAB Host Baltic
+AS199739 # Earthlink Telecommunications Equipment Trading & Services DMCC
+AS49981  # WorldStream B.V. 
+
 
 # Hosting / ISP
 AS24940  # Hetzner
