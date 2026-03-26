@@ -16,12 +16,18 @@ AS199739 # Earthlink Telecommunications Equipment Trading & Services DMCC
 AS49981  # WorldStream B.V. 
 AS4837   # CHINA UNICOM China169 Backbone
 AS40021  # Contabo Inc. 
-AS29066  # velia.net                                                                                                                                                                                                                                                              AS262287 #Latitude.sh
-AS142513 # LEVOTEL BIGNET                                                                                                                                                                                                                                                      
+AS29066  # velia.net
+AS262287 # Latitude.sh
+AS142513 # LEVOTEL BIGNET
 AS206092 # F.n.s. Holdings
 AS23724  # IDC China Telecom
 AS23033  # Wowrack
 AS63916  # IPTELECOM
+AS62240  # Clouvider
+AS12389  # Rostelecom
+AS13238  # YANDEX
+AS209366 # SEMrush
+AS150436 # Byteplus (TikTok infra)
 
 # Hosting / ISP
 AS24940  # Hetzner
