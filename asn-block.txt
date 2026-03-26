@@ -8,7 +8,9 @@ AS150791 # Antbox
 AS206986 # HanMing
 AS138915 # Microplex
 AS211298 # Pfcloud
-AS48090  #Techoff Srv Limited
+AS48090  # Techoff Srv Limited
+AS45899  # VNPT Corp
+AS12555  # Data-center IMAQLIQ Ltd.
 
 # Hosting / ISP
 AS24940  # Hetzner
