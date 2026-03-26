@@ -1,4 +1,14 @@
-14061
-24940
-62567
-24651
+# Cloud providers - no legitimate visitors
+AS14061  # DigitalOcean
+AS62567  # DigitalOcean (Private Interconnect)
+AS45102  # Alibaba
+AS212238 # Datacamp
+AS139180 # Scloud
+AS150791 # Antbox
+AS206986 # HanMing
+AS138915 # Microplex
+AS211298 # Pfcloud
+
+# Hosting / ISP
+AS24940  # Hetzner
+AS24651  # Balticom
