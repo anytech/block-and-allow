@@ -83,6 +83,11 @@
 210743 # Babbar SAS (France crawler)
 4788   # TM TECHNOLOGY SERVICES (Malaysia)
 215925 # Vpsvault.host (US hosting)
+51167  # Contabo GmbH (secondary ASN)
+48832  # Jordanian Mobile Phone Services (Jordan)
+52613  # GIGA MAIS FIBRA (Brazil)
+136907 # HUAWEI CLOUDS (Singapore)
+203020 # HostRoyale Technologies (Australia)
 
 # Hosting / ISP (managed challenge)
 24940  # Hetzner
