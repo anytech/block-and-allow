@@ -1,75 +1,85 @@
 # Cloud / VPS providers
-AS14061  # DigitalOcean
-AS62567  # DigitalOcean (Private Interconnect)
-AS16276  # OVH SAS
-AS45102  # Alibaba
-AS40021  # Contabo
-AS262287 # Latitude.sh
-AS20473  # Constant Company (Vultr)
-AS150436 # Byteplus (TikTok infra)
+14061  # DigitalOcean
+62567  # DigitalOcean (Private Interconnect)
+16276  # OVH SAS
+45102  # Alibaba
+40021  # Contabo
+262287 # Latitude.sh
+20473  # Constant Company (Vultr)
+150436 # Byteplus (TikTok infra)
 
 # Bulletproof / bot hosting
-AS212238 # Datacamp
-AS139180 # Scloud
-AS150791 # Antbox
-AS206986 # HanMing
-AS138915 # Microplex
-AS211298 # Pfcloud
-AS51396  # Pfcloud UG (Bulgaria)
-AS48090  # Techoff Srv
-AS12555  # IMAQLIQ
-AS209605 # UAB Host Baltic
-AS49981  # WorldStream
-AS29066  # velia.net
-AS142513 # LEVOTEL BIGNET
-AS206092 # F.n.s. Holdings
-AS23033  # Wowrack
-AS63916  # IPTELECOM
-AS62240  # Clouvider
-AS209274 # Kraken Network ISP
-AS133043 # Enhanced Solutions
-AS52444  # Pogliotti (Argentina)
-AS268622 # OLIVEIRA TELECOM (Brazil)
-AS150895 # EZ TECHNOLOGY (Vietnam)
-AS211680 # Sistemas Informaticos (Portugal)
-AS36352  # HostPapa
+212238 # Datacamp
+139180 # Scloud
+150791 # Antbox
+206986 # HanMing
+138915 # Microplex
+211298 # Pfcloud
+51396  # Pfcloud UG (Bulgaria)
+48090  # Techoff Srv
+12555  # IMAQLIQ
+209605 # UAB Host Baltic
+49981  # WorldStream
+29066  # velia.net
+142513 # LEVOTEL BIGNET
+206092 # F.n.s. Holdings
+23033  # Wowrack
+63916  # IPTELECOM
+62240  # Clouvider
+209274 # Kraken Network ISP
+133043 # Enhanced Solutions
+52444  # Pogliotti (Argentina)
+268622 # OLIVEIRA TELECOM (Brazil)
+150895 # EZ TECHNOLOGY (Vietnam)
+211680 # Sistemas Informaticos (Portugal)
+36352  # HostPapa
 
 # Crawlers / scrapers
-AS209366 # SEMrush
-AS13238  # YANDEX
-AS12816  # Leibniz-Rechenzentrum
+209366 # SEMrush
+13238  # YANDEX
+12816  # Leibniz-Rechenzentrum
 
 # China / Russia
-AS4837   # CHINA UNICOM China169 Backbone
-AS23724  # IDC China Telecom
-AS12389  # Rostelecom
+4837   # CHINA UNICOM China169 Backbone
+23724  # IDC China Telecom
+12389  # Rostelecom
 
 # Residential proxies (bot traffic confirmed)
-AS199739 # Earthlink DMCC (Dubai)
-AS45899  # VNPT Corp (Vietnam)
-AS7552   # Viettel Group (Vietnam)
-AS18881  # TELEFONICA BRASIL
-AS12479  # Orange Espagne
-AS209334 # Modat B.V. (Canada hosting)
-AS4134   # Chinanet
-AS398324 # Censys
-AS28283  # Adylnet Telecom (Brazil)
-AS61466  # TV Cable Loncomilla (Chile)
-AS55967  # Beijing Baidu Netcom (China)
-AS48282  # Hosting technology LTD (Russia)
-AS266783 # Anibal Enriquez Comunicate (Ecuador)
-AS272119 # GTITHOST (Venezuela)
-AS272102 # BESSER SOLUTIONS (Venezuela)
-AS31452  # Zain Bahrain
-AS271808 # MONTECRISTI CABLE VISION (Dominican Republic)
-AS263492 # VIPMAX INTERNET (Brazil)
-AS15723  # azeronline (Azerbaijan)
-AS8452   # TE Data (Egypt)
-AS48492  # I.Q Online (Iraq)
-AS7303   # Telecom Argentina
-AS24560  # Bharti Airtel (India)
+199739 # Earthlink DMCC (Dubai)
+45899  # VNPT Corp (Vietnam)
+7552   # Viettel Group (Vietnam)
+18881  # TELEFONICA BRASIL
+12479  # Orange Espagne
+209334 # Modat B.V. (Canada hosting)
+4134   # Chinanet
+398324 # Censys
+28283  # Adylnet Telecom (Brazil)
+61466  # TV Cable Loncomilla (Chile)
+55967  # Beijing Baidu Netcom (China)
+48282  # Hosting technology LTD (Russia)
+266783 # Anibal Enriquez Comunicate (Ecuador)
+272119 # GTITHOST (Venezuela)
+272102 # BESSER SOLUTIONS (Venezuela)
+31452  # Zain Bahrain
+271808 # MONTECRISTI CABLE VISION (Dominican Republic)
+263492 # VIPMAX INTERNET (Brazil)
+15723  # azeronline (Azerbaijan)
+8452   # TE Data (Egypt)
+48492  # I.Q Online (Iraq)
+7303   # Telecom Argentina
+24560  # Bharti Airtel (India)
+9009   # M247 Europe SRL (VPN/proxy provider)
+209372 # WS Telecom Inc (proxy)
+209043 # IPRoyal Services (residential proxy provider)
+135905 # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+327934 # Tunisie-Telecom (Tunisia)
+47165  # Omskie kabelnye seti (Russia)
+9299   # PLDT (Philippines)
+211373 # Simoresta UAB (Lithuania proxy, NZ exit)
+401560 # OneCable Network (US)
+11664  # Techtel LMDS (Argentina)
 
 # Hosting / ISP (managed challenge)
-AS24940  # Hetzner
-AS213230 # Hetzner Online (secondary ASN)
-AS24651  # Balticom
+24940  # Hetzner
+213230 # Hetzner Online (secondary ASN)
+24651  # Balticom
