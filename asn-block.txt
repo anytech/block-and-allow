@@ -35,6 +35,8 @@ AS213230 # Hetzner Online (secondary ASN)
 AS133043 # Enhanced Solutions
 AS268622 # OLIVEIRA TELECOM
 AS52444  # Pogliotti (Argentina hosting)
+AS150895 # EZ TECHNOLOGY (Vietnam hosting)
+AS209274 # Kraken Network ISP (Netherlands hosting)
 
 # Hosting / ISP
 AS24940  # Hetzner
