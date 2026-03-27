@@ -33,6 +33,7 @@
 150895 # EZ TECHNOLOGY (Vietnam)
 211680 # Sistemas Informaticos (Portugal)
 36352  # HostPapa
+62633  # HostRush (US)
 
 # Crawlers / scrapers
 209366 # SEMrush
