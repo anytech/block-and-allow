@@ -50,6 +50,9 @@ AS45899  # VNPT Corp (Vietnam)
 AS7552   # Viettel Group (Vietnam)
 AS18881  # TELEFONICA BRASIL
 AS12479  # Orange Espagne
+AS209334 # Modat B.V. (Canada hosting)
+AS4134   # Chinanet
+AS398324 # Censys
 
 # Hosting / ISP (managed challenge)
 AS24940  # Hetzner
