@@ -37,6 +37,10 @@ AS268622 # OLIVEIRA TELECOM
 AS52444  # Pogliotti (Argentina hosting)
 AS150895 # EZ TECHNOLOGY (Vietnam hosting)
 AS209274 # Kraken Network ISP (Netherlands hosting)
+AS7552   # Viettel Group (Vietnam)
+AS211680 # Sistemas Informaticos (Portugal hosting)
+AS36352  # HostPapa (US hosting)
+AS12479  # Orange Espagne (Spain)
 
 # Hosting / ISP
 AS24940  # Hetzner
