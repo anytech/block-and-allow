@@ -1,79 +1,38 @@
-# Cloud / VPS providers
-14061  # DigitalOcean
-62567  # DigitalOcean (Private Interconnect)
-16276  # OVH SAS
-45102  # Alibaba
-40021  # Contabo
-262287 # Latitude.sh
-20473  # Constant Company (Vultr)
-150436 # Byteplus (TikTok infra)
+# Asia
+Singapore
+China
+Vietnam
+India
+Indonesia
+Pakistan
+Bangladesh
+Philippines
+Iran
+Iraq
+Bahrain
+Azerbaijan
+Syria
+North Korea
+South Korea
 
-# Bulletproof / bot hosting
-212238 # Datacamp
-139180 # Scloud
-150791 # Antbox
-206986 # HanMing
-138915 # Microplex
-211298 # Pfcloud
-51396  # Pfcloud UG (Bulgaria)
-48090  # Techoff Srv
-12555  # IMAQLIQ
-209605 # UAB Host Baltic
-49981  # WorldStream
-29066  # velia.net
-142513 # LEVOTEL BIGNET
-206092 # F.n.s. Holdings
-23033  # Wowrack
-63916  # IPTELECOM
-62240  # Clouvider
-209274 # Kraken Network ISP
-133043 # Enhanced Solutions
-52444  # Pogliotti (Argentina)
-268622 # OLIVEIRA TELECOM (Brazil)
-150895 # EZ TECHNOLOGY (Vietnam)
-211680 # Sistemas Informaticos (Portugal)
-36352  # HostPapa
+# Eastern Europe / Russia
+Russia
+Ukraine
 
-# Crawlers / scrapers
-209366 # SEMrush
-13238  # YANDEX
-12816  # Leibniz-Rechenzentrum
+# South America
+Brazil
+Venezuela
+Ecuador
+Colombia
+Peru
+Argentina
+Chile
 
-# China / Russia
-4837   # CHINA UNICOM China169 Backbone
-23724  # IDC China Telecom
-12389  # Rostelecom
+# Africa / Middle East
+Egypt
+Tunisia
+United Arab Emirates
+Israel
 
-# Residential proxies (bot traffic confirmed)
-199739 # Earthlink DMCC (Dubai)
-45899  # VNPT Corp (Vietnam)
-7552   # Viettel Group (Vietnam)
-18881  # TELEFONICA BRASIL
-12479  # Orange Espagne
-209334 # Modat B.V. (Canada hosting)
-4134   # Chinanet
-398324 # Censys
-28283  # Adylnet Telecom (Brazil)
-61466  # TV Cable Loncomilla (Chile)
-55967  # Beijing Baidu Netcom (China)
-48282  # Hosting technology LTD (Russia)
-266783 # Anibal Enriquez Comunicate (Ecuador)
-272119 # GTITHOST (Venezuela)
-272102 # BESSER SOLUTIONS (Venezuela)
-31452  # Zain Bahrain
-271808 # MONTECRISTI CABLE VISION (Dominican Republic)
-263492 # VIPMAX INTERNET (Brazil)
-15723  # azeronline (Azerbaijan)
-8452   # TE Data (Egypt)
-48492  # I.Q Online (Iraq)
-7303   # Telecom Argentina
-24560  # Bharti Airtel (India)
-9009   # M247 Europe SRL (VPN/proxy provider)
-209372 # WS Telecom Inc (proxy)
-209043 # IPRoyal Services (residential proxy provider)
-135905 # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-
-# Hosting / ISP (managed challenge)
-24940  # Hetzner
-213230 # Hetzner Online (secondary ASN)
-24651  # Balticom
+# Central America / Caribbean
+Dominican Republic
