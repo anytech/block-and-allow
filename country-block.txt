@@ -1,33 +1,79 @@
-# Asia
-Singapore
-China
-Vietnam
-India
-Indonesia
-Pakistan
-Bangladesh
-Iran
-Iraq
-Bahrain
-Azerbaijan
-Syria
-North Korea
+# Cloud / VPS providers
+AS14061  # DigitalOcean
+AS62567  # DigitalOcean (Private Interconnect)
+AS16276  # OVH SAS
+AS45102  # Alibaba
+AS40021  # Contabo
+AS262287 # Latitude.sh
+AS20473  # Constant Company (Vultr)
+AS150436 # Byteplus (TikTok infra)
 
-# Eastern Europe / Russia
-Russia
-Ukraine
+# Bulletproof / bot hosting
+AS212238 # Datacamp
+AS139180 # Scloud
+AS150791 # Antbox
+AS206986 # HanMing
+AS138915 # Microplex
+AS211298 # Pfcloud
+AS51396  # Pfcloud UG (Bulgaria)
+AS48090  # Techoff Srv
+AS12555  # IMAQLIQ
+AS209605 # UAB Host Baltic
+AS49981  # WorldStream
+AS29066  # velia.net
+AS142513 # LEVOTEL BIGNET
+AS206092 # F.n.s. Holdings
+AS23033  # Wowrack
+AS63916  # IPTELECOM
+AS62240  # Clouvider
+AS209274 # Kraken Network ISP
+AS133043 # Enhanced Solutions
+AS52444  # Pogliotti (Argentina)
+AS268622 # OLIVEIRA TELECOM (Brazil)
+AS150895 # EZ TECHNOLOGY (Vietnam)
+AS211680 # Sistemas Informaticos (Portugal)
+AS36352  # HostPapa
 
-# South America
-Brazil
-Venezuela
-Ecuador
-Colombia
-Peru
+# Crawlers / scrapers
+AS209366 # SEMrush
+AS13238  # YANDEX
+AS12816  # Leibniz-Rechenzentrum
 
-# Africa / Middle East
-Egypt
-United Arab Emirates
-Israel
+# China / Russia
+AS4837   # CHINA UNICOM China169 Backbone
+AS23724  # IDC China Telecom
+AS12389  # Rostelecom
 
-# Central America / Caribbean
-Dominican Republic
+# Residential proxies (bot traffic confirmed)
+AS199739 # Earthlink DMCC (Dubai)
+AS45899  # VNPT Corp (Vietnam)
+AS7552   # Viettel Group (Vietnam)
+AS18881  # TELEFONICA BRASIL
+AS12479  # Orange Espagne
+AS209334 # Modat B.V. (Canada hosting)
+AS4134   # Chinanet
+AS398324 # Censys
+AS28283  # Adylnet Telecom (Brazil)
+AS61466  # TV Cable Loncomilla (Chile)
+AS55967  # Beijing Baidu Netcom (China)
+AS48282  # Hosting technology LTD (Russia)
+AS266783 # Anibal Enriquez Comunicate (Ecuador)
+AS272119 # GTITHOST (Venezuela)
+AS272102 # BESSER SOLUTIONS (Venezuela)
+AS31452  # Zain Bahrain
+AS271808 # MONTECRISTI CABLE VISION (Dominican Republic)
+AS263492 # VIPMAX INTERNET (Brazil)
+AS15723  # azeronline (Azerbaijan)
+AS8452   # TE Data (Egypt)
+AS48492  # I.Q Online (Iraq)
+AS7303   # Telecom Argentina
+AS24560  # Bharti Airtel (India)
+AS9009   # M247 Europe SRL (VPN/proxy provider)
+AS209372 # WS Telecom Inc (proxy)
+AS209043 # IPRoyal Services (residential proxy provider)
+AS135905 # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+
+# Hosting / ISP (managed challenge)
+AS24940  # Hetzner
+AS213230 # Hetzner Online (secondary ASN)
+AS24651  # Balticom
