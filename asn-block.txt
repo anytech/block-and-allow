@@ -66,6 +66,8 @@ AS263492 # VIPMAX INTERNET (Brazil)
 AS15723  # azeronline (Azerbaijan)
 AS8452   # TE Data (Egypt)
 AS48492  # I.Q Online (Iraq)
+AS7303   # Telecom Argentina
+AS24560  # Bharti Airtel (India)
 
 # Hosting / ISP (managed challenge)
 AS24940  # Hetzner
