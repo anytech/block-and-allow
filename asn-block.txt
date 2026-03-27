@@ -44,6 +44,7 @@
 4837   # CHINA UNICOM China169 Backbone
 23724  # IDC China Telecom
 12389  # Rostelecom
+4811 # China Telecom Group (China)
 
 # Residential proxies (bot traffic confirmed)
 199739 # Earthlink DMCC (Dubai)
