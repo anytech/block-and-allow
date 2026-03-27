@@ -28,6 +28,13 @@ AS12389  # Rostelecom
 AS13238  # YANDEX
 AS209366 # SEMrush
 AS150436 # Byteplus (TikTok infra)
+AS18881  # TELEFONICA BRASIL
+AS51396  # Pfcloud
+AS12816  # Leibniz-Rechenzentrum
+AS213230 # Hetzner Online (secondary ASN)
+AS133043 # Enhanced Solutions
+AS268622 # OLIVEIRA TELECOM
+AS52444  # Pogliotti (Argentina hosting)
 
 # Hosting / ISP
 AS24940  # Hetzner
