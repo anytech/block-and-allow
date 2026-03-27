@@ -1,10 +1,33 @@
+# Asia
 Singapore
 China
-United Arab Emirates
-Brazil
-South Korea
-Colombia
-Israel
-Venezuela
+Vietnam
+India
+Indonesia
+Pakistan
+Bangladesh
+Iran
 Iraq
+Bahrain
+Azerbaijan
+Syria
+North Korea
+
+# Eastern Europe / Russia
+Russia
+Ukraine
+
+# South America
+Brazil
+Venezuela
+Ecuador
+Colombia
 Peru
+
+# Africa / Middle East
+Egypt
+United Arab Emirates
+Israel
+
+# Central America / Caribbean
+Dominican Republic
