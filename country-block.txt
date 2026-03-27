@@ -35,6 +35,8 @@ Egypt
 Tunisia
 United Arab Emirates
 Israel
+Kenya
+Sudan
 
 # Africa / Middle East (additional)
 Morocco
@@ -43,3 +45,4 @@ Morocco
 Dominican Republic
 Puerto Rico
 Uruguay
+Bolivia
