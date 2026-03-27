@@ -53,6 +53,19 @@ AS12479  # Orange Espagne
 AS209334 # Modat B.V. (Canada hosting)
 AS4134   # Chinanet
 AS398324 # Censys
+AS28283  # Adylnet Telecom (Brazil)
+AS61466  # TV Cable Loncomilla (Chile)
+AS55967  # Beijing Baidu Netcom (China)
+AS48282  # Hosting technology LTD (Russia)
+AS266783 # Anibal Enriquez Comunicate (Ecuador)
+AS272119 # GTITHOST (Venezuela)
+AS272102 # BESSER SOLUTIONS (Venezuela)
+AS31452  # Zain Bahrain
+AS271808 # MONTECRISTI CABLE VISION (Dominican Republic)
+AS263492 # VIPMAX INTERNET (Brazil)
+AS15723  # azeronline (Azerbaijan)
+AS8452   # TE Data (Egypt)
+AS48492  # I.Q Online (Iraq)
 
 # Hosting / ISP (managed challenge)
 AS24940  # Hetzner
