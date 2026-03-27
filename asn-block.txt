@@ -78,6 +78,11 @@
 211373 # Simoresta UAB (Lithuania proxy, NZ exit)
 401560 # OneCable Network (US)
 11664  # Techtel LMDS (Argentina)
+396356 # Latitude.sh (US, secondary ASN)
+210558 # 1337 Services GmbH (Netherlands hosting)
+210743 # Babbar SAS (France crawler)
+4788   # TM TECHNOLOGY SERVICES (Malaysia)
+215925 # Vpsvault.host (US hosting)
 
 # Hosting / ISP (managed challenge)
 24940  # Hetzner
