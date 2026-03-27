@@ -41,3 +41,4 @@ Morocco
 # Central America / Caribbean
 Dominican Republic
 Puerto Rico
+Uruguay
