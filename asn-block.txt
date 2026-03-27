@@ -34,6 +34,9 @@
 211680 # Sistemas Informaticos (Portugal)
 36352  # HostPapa
 62633  # HostRush (US)
+11320  # LightEdge Solutions (US)
+21859  # Zenlayer Inc (Portugal/US)
+137409 # GSL Networks (Singapore)
 
 # Crawlers / scrapers
 209366 # SEMrush
