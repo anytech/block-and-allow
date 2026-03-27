@@ -37,6 +37,13 @@
 11320  # LightEdge Solutions (US)
 21859  # Zenlayer Inc (Portugal/US)
 137409 # GSL Networks (Singapore)
+211590 # Bucklog SARL (France hosting)
+47890  # Unmanaged Ltd (Romania hosting)
+201002 # PebbleHost Ltd (UK hosting)
+328029 # Web-Telecom-Services (South Africa hosting)
+329535 # ONSITE AFRICA LIMITED (Kenya hosting)
+62874  # Web2Objects LLC (Canada hosting)
+29802  # HIVELOCITY Inc (US hosting)
 
 # Crawlers / scrapers
 209366 # SEMrush
@@ -61,6 +68,7 @@
 28283  # Adylnet Telecom (Brazil)
 61466  # TV Cable Loncomilla (Chile)
 55967  # Beijing Baidu Netcom (China)
+38365  # Beijing Baidu Netcom (China, secondary ASN)
 48282  # Hosting technology LTD (Russia)
 266783 # Anibal Enriquez Comunicate (Ecuador)
 272119 # GTITHOST (Venezuela)
