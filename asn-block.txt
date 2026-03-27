@@ -108,4 +108,4 @@
 24651:managed_challenge  # Balticom
 
 #Allow
-14593:allow # Space Exploration Technologies Corporation (spacex.com)
+14593:ALLOW # Space Exploration Technologies Corporation (spacex.com)
