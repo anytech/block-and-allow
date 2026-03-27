@@ -1,47 +1,57 @@
-# Cloud providers - no legitimate visitors
+# Cloud / VPS providers
 AS14061  # DigitalOcean
 AS62567  # DigitalOcean (Private Interconnect)
+AS16276  # OVH SAS
 AS45102  # Alibaba
+AS40021  # Contabo
+AS262287 # Latitude.sh
+AS20473  # Constant Company (Vultr)
+AS150436 # Byteplus (TikTok infra)
+
+# Bulletproof / bot hosting
 AS212238 # Datacamp
 AS139180 # Scloud
 AS150791 # Antbox
 AS206986 # HanMing
 AS138915 # Microplex
 AS211298 # Pfcloud
-AS48090  # Techoff Srv Limited
-AS45899  # VNPT Corp
-AS12555  # Data-center IMAQLIQ Ltd.
+AS51396  # Pfcloud UG (Bulgaria)
+AS48090  # Techoff Srv
+AS12555  # IMAQLIQ
 AS209605 # UAB Host Baltic
-AS199739 # Earthlink Telecommunications Equipment Trading & Services DMCC
-AS49981  # WorldStream B.V. 
-AS4837   # CHINA UNICOM China169 Backbone
-AS40021  # Contabo Inc. 
+AS49981  # WorldStream
 AS29066  # velia.net
-AS262287 # Latitude.sh
 AS142513 # LEVOTEL BIGNET
 AS206092 # F.n.s. Holdings
-AS23724  # IDC China Telecom
 AS23033  # Wowrack
 AS63916  # IPTELECOM
 AS62240  # Clouvider
-AS12389  # Rostelecom
-AS13238  # YANDEX
-AS209366 # SEMrush
-AS150436 # Byteplus (TikTok infra)
-AS18881  # TELEFONICA BRASIL
-AS51396  # Pfcloud
-AS12816  # Leibniz-Rechenzentrum
-AS213230 # Hetzner Online (secondary ASN)
+AS209274 # Kraken Network ISP
 AS133043 # Enhanced Solutions
-AS268622 # OLIVEIRA TELECOM
-AS52444  # Pogliotti (Argentina hosting)
-AS150895 # EZ TECHNOLOGY (Vietnam hosting)
-AS209274 # Kraken Network ISP (Netherlands hosting)
-AS7552   # Viettel Group (Vietnam)
-AS211680 # Sistemas Informaticos (Portugal hosting)
-AS36352  # HostPapa (US hosting)
-AS12479  # Orange Espagne (Spain)
+AS52444  # Pogliotti (Argentina)
+AS268622 # OLIVEIRA TELECOM (Brazil)
+AS150895 # EZ TECHNOLOGY (Vietnam)
+AS211680 # Sistemas Informaticos (Portugal)
+AS36352  # HostPapa
 
-# Hosting / ISP
+# Crawlers / scrapers
+AS209366 # SEMrush
+AS13238  # YANDEX
+AS12816  # Leibniz-Rechenzentrum
+
+# China / Russia
+AS4837   # CHINA UNICOM China169 Backbone
+AS23724  # IDC China Telecom
+AS12389  # Rostelecom
+
+# Residential proxies (bot traffic confirmed)
+AS199739 # Earthlink DMCC (Dubai)
+AS45899  # VNPT Corp (Vietnam)
+AS7552   # Viettel Group (Vietnam)
+AS18881  # TELEFONICA BRASIL
+AS12479  # Orange Espagne
+
+# Hosting / ISP (managed challenge)
 AS24940  # Hetzner
+AS213230 # Hetzner Online (secondary ASN)
 AS24651  # Balticom
