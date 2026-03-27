@@ -16,9 +16,10 @@ Syria
 North Korea
 South Korea
 
-# Eastern Europe / Russia
+# Eastern Europe / Russia / Central Asia
 Russia
 Ukraine
+Uzbekistan
 
 # South America
 Brazil
