@@ -1,111 +1,111 @@
 # Cloud / VPS providers
 14061:block  # DigitalOcean
 62567:block  # DigitalOcean (Private Interconnect)
-16276:block  # OVH SAS
-45102:block  # Alibaba
-40021:block  # Contabo
-262287:block # Latitude.sh
-20473:block  # Constant Company (Vultr)
-150436:block # Byteplus (TikTok infra)
+#16276:block  # OVH SAS
+#45102:block  # Alibaba
+#40021:block  # Contabo
+#262287:block # Latitude.sh
+#20473:block  # Constant Company (Vultr)
+#150436:block # Byteplus (TikTok infra)
 
 # Bulletproof / bot hosting
-212238:block # Datacamp
-139180:block # Scloud
-150791:block # Antbox
-206986:block # HanMing
-138915:block # Microplex
-211298:block # Pfcloud
-51396:block  # Pfcloud UG (Bulgaria)
-48090:block  # Techoff Srv
-12555:block  # IMAQLIQ
-209605:block # UAB Host Baltic
-49981:block  # WorldStream
-29066:block  # velia.net
-142513:block # LEVOTEL BIGNET
-206092:block # F.n.s. Holdings
-23033:block  # Wowrack
-63916:block  # IPTELECOM
-62240:block  # Clouvider
-209274:block # Kraken Network ISP
-133043:block # Enhanced Solutions
-52444:block  # Pogliotti (Argentina)
-268622:block # OLIVEIRA TELECOM (Brazil)
-150895:block # EZ TECHNOLOGY (Vietnam)
-211680:block # Sistemas Informaticos (Portugal)
-36352:block  # HostPapa
-62633:block  # HostRush (US)
-11320:block  # LightEdge Solutions (US)
-21859:block  # Zenlayer Inc (Portugal/US)
-137409:block # GSL Networks (Singapore)
-211590:block # Bucklog SARL (France hosting)
-47890:block  # Unmanaged Ltd (Romania hosting)
-201002:block # PebbleHost Ltd (UK hosting)
-328029:block # Web-Telecom-Services (South Africa hosting)
-329535:block # ONSITE AFRICA LIMITED (Kenya hosting)
-62874:block  # Web2Objects LLC (Canada hosting)
-29802:block  # HIVELOCITY Inc (US hosting)
+#212238:block # Datacamp
+#139180:block # Scloud
+#150791:block # Antbox
+#206986:block # HanMing
+#138915:block # Microplex
+#211298:block # Pfcloud
+#51396:block  # Pfcloud UG (Bulgaria)
+#48090:block  # Techoff Srv
+#12555:block  # IMAQLIQ
+#209605:block # UAB Host Baltic
+#49981:block  # WorldStream
+#29066:block  # velia.net
+#142513:block # LEVOTEL BIGNET
+#206092:block # F.n.s. Holdings
+#23033:block  # Wowrack
+#63916:block  # IPTELECOM
+#62240:block  # Clouvider
+#209274:block # Kraken Network ISP
+#133043:block # Enhanced Solutions
+#52444:block  # Pogliotti (Argentina)
+#268622:block # OLIVEIRA TELECOM (Brazil)
+#150895:block # EZ TECHNOLOGY (Vietnam)
+#211680:block # Sistemas Informaticos (Portugal)
+#36352:block  # HostPapa
+#62633:block  # HostRush (US)
+#11320:block  # LightEdge Solutions (US)
+#21859:block  # Zenlayer Inc (Portugal/US)
+#137409:block # GSL Networks (Singapore)
+#211590:block # Bucklog SARL (France hosting)
+#47890:block  # Unmanaged Ltd (Romania hosting)
+#201002:block # PebbleHost Ltd (UK hosting)
+#328029:block # Web-Telecom-Services (South Africa hosting)
+#329535:block # ONSITE AFRICA LIMITED (Kenya hosting)
+#62874:block  # Web2Objects LLC (Canada hosting)
+#29802:block  # HIVELOCITY Inc (US hosting)
 
 # Crawlers / scrapers
-209366:block # SEMrush
-13238:block  # YANDEX
-12816:block  # Leibniz-Rechenzentrum
+#209366:block # SEMrush
+#13238:block  # YANDEX
+#12816:block  # Leibniz-Rechenzentrum
 
 # China / Russia
-4837:block   # CHINA UNICOM China169 Backbone
-23724:block  # IDC China Telecom
-12389:block  # Rostelecom
-4811:block   # China Telecom Group (China)
+#4837:block   # CHINA UNICOM China169 Backbone
+#23724:block  # IDC China Telecom
+#12389:block  # Rostelecom
+#4811:block   # China Telecom Group (China)
 
 # Residential proxies (bot traffic confirmed)
-199739:block # Earthlink DMCC (Dubai)
-45899:block  # VNPT Corp (Vietnam)
-7552:block   # Viettel Group (Vietnam)
-18881:block  # TELEFONICA BRASIL
-12479:block  # Orange Espagne
-209334:block # Modat B.V. (Canada hosting)
-4134:block   # Chinanet
-398324:block # Censys
-28283:block  # Adylnet Telecom (Brazil)
-61466:block  # TV Cable Loncomilla (Chile)
-55967:block  # Beijing Baidu Netcom (China)
-38365:block  # Beijing Baidu Netcom (China, secondary ASN)
-48282:block  # Hosting technology LTD (Russia)
-266783:block # Anibal Enriquez Comunicate (Ecuador)
-272119:block # GTITHOST (Venezuela)
-272102:block # BESSER SOLUTIONS (Venezuela)
-31452:block  # Zain Bahrain
-271808:block # MONTECRISTI CABLE VISION (Dominican Republic)
-263492:block # VIPMAX INTERNET (Brazil)
-15723:block  # azeronline (Azerbaijan)
-8452:block   # TE Data (Egypt)
-48492:block  # I.Q Online (Iraq)
-7303:block   # Telecom Argentina
-24560:block  # Bharti Airtel (India)
-9009:block   # M247 Europe SRL (VPN/proxy provider)
-209372:block # WS Telecom Inc (proxy)
-209043:block # IPRoyal Services (residential proxy provider)
-135905:block # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-327934:block # Tunisie-Telecom (Tunisia)
-47165:block  # Omskie kabelnye seti (Russia)
-9299:block   # PLDT (Philippines)
-211373:block # Simoresta UAB (Lithuania proxy, NZ exit)
-401560:block # OneCable Network (US)
-11664:block  # Techtel LMDS (Argentina)
-396356:block # Latitude.sh (US, secondary ASN)
-210558:block # 1337 Services GmbH (Netherlands hosting)
-210743:block # Babbar SAS (France crawler)
-4788:block   # TM TECHNOLOGY SERVICES (Malaysia)
-215925:block # Vpsvault.host (US hosting)
-51167:block  # Contabo GmbH (secondary ASN)
-48832:block  # Jordanian Mobile Phone Services (Jordan)
-52613:block  # GIGA MAIS FIBRA (Brazil)
-136907:block # HUAWEI CLOUDS (Singapore)
-203020:block # HostRoyale Technologies (Australia)
+#199739:block # Earthlink DMCC (Dubai)
+#45899:block  # VNPT Corp (Vietnam)
+#7552:block   # Viettel Group (Vietnam)
+#18881:block  # TELEFONICA BRASIL
+#12479:block  # Orange Espagne
+#209334:block # Modat B.V. (Canada hosting)
+#4134:block   # Chinanet
+#398324:block # Censys
+#28283:block  # Adylnet Telecom (Brazil)
+#61466:block  # TV Cable Loncomilla (Chile)
+#55967:block  # Beijing Baidu Netcom (China)
+#38365:block  # Beijing Baidu Netcom (China, secondary ASN)
+#48282:block  # Hosting technology LTD (Russia)
+#266783:block # Anibal Enriquez Comunicate (Ecuador)
+#272119:block # GTITHOST (Venezuela)
+#272102:block # BESSER SOLUTIONS (Venezuela)
+#31452:block  # Zain Bahrain
+#271808:block # MONTECRISTI CABLE VISION (Dominican Republic)
+#263492:block # VIPMAX INTERNET (Brazil)
+#15723:block  # azeronline (Azerbaijan)
+#8452:block   # TE Data (Egypt)
+#48492:block  # I.Q Online (Iraq)
+#7303:block   # Telecom Argentina
+#24560:block  # Bharti Airtel (India)
+#9009:block   # M247 Europe SRL (VPN/proxy provider)
+#209372:block # WS Telecom Inc (proxy)
+#209043:block # IPRoyal Services (residential proxy provider)
+#135905:block # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+#327934:block # Tunisie-Telecom (Tunisia)
+#47165:block  # Omskie kabelnye seti (Russia)
+#9299:block   # PLDT (Philippines)
+#211373:block # Simoresta UAB (Lithuania proxy, NZ exit)
+#401560:block # OneCable Network (US)
+#11664:block  # Techtel LMDS (Argentina)
+#396356:block # Latitude.sh (US, secondary ASN)
+#210558:block # 1337 Services GmbH (Netherlands hosting)
+#210743:block # Babbar SAS (France crawler)
+#4788:block   # TM TECHNOLOGY SERVICES (Malaysia)
+#215925:block # Vpsvault.host (US hosting)
+#51167:block  # Contabo GmbH (secondary ASN)
+#48832:block  # Jordanian Mobile Phone Services (Jordan)
+#52613:block  # GIGA MAIS FIBRA (Brazil)
+#136907:block # HUAWEI CLOUDS (Singapore)
+#203020:block # HostRoyale Technologies (Australia)
 
 # Hosting / ISP (managed challenge)
-24940:managed_challenge  # Hetzner
-213230:managed_challenge # Hetzner Online (secondary ASN)
-24651:managed_challenge  # Balticom
+#24940:managed_challenge  # Hetzner
+#213230:managed_challenge # Hetzner Online (secondary ASN)
+#24651:managed_challenge  # Balticom
 
 #Allow
 14593:whitelist # Space Exploration Technologies Corporation (spacex.com)
