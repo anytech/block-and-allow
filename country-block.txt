@@ -1,5 +1,5 @@
 # Asia
-Singapore:block
+#Singapore:block
 #China:block
 #Vietnam:block
 #India:block
@@ -22,7 +22,7 @@ Singapore:block
 #Uzbekistan:block
 
 # South America
-Brazil:block
+#Brazil:block
 #Venezuela:block
 #Ecuador:block
 #Colombia:block
