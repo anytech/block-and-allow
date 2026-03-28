@@ -1,49 +1,49 @@
 # Asia
 Singapore:block
-China:block
-Vietnam:block
-India:block
-Indonesia:block
-Pakistan:block
-Bangladesh:block
-Philippines:block
-Malaysia:block
-Iran:block
-Iraq:block
-Bahrain:block
-Azerbaijan:block
-Syria:block
-North Korea:block
-South Korea:block
+#China:block
+#Vietnam:block
+#India:block
+#Indonesia:block
+#Pakistan:block
+#Bangladesh:block
+#Philippines:block
+#Malaysia:block
+#Iran:block
+#Iraq:block
+#Bahrain:block
+#Azerbaijan:block
+#Syria:block
+#North Korea:block
+#South Korea:block
 
 # Eastern Europe / Russia / Central Asia
-Russia:block
-Ukraine:block
-Uzbekistan:block
+#Russia:block
+#Ukraine:block
+#Uzbekistan:block
 
 # South America
 Brazil:block
-Venezuela:block
-Ecuador:block
-Colombia:block
-Peru:block
-Argentina:block
-Chile:block
+#Venezuela:block
+#Ecuador:block
+#Colombia:block
+#Peru:block
+#Argentina:block
+#Chile:block
 
 # Africa / Middle East
-Egypt:block
-Tunisia:block
-United Arab Emirates:block
-Israel
-Kenya:block
-Sudan:block
-Ethiopia:block
+#Egypt:block
+#Tunisia:block
+#United Arab Emirates:block
+#Israel
+#Kenya:block
+#Sudan:block
+#Ethiopia:block
 
 # Africa / Middle East (additional)
-Morocco:block
+#Morocco:block
 
 # Central America / Caribbean
-Dominican Republic:block
-Puerto Rico
-Uruguay
-Bolivia:block
+#Dominican Republic:block
+#Puerto Rico
+#Uruguay
+#Bolivia:block
