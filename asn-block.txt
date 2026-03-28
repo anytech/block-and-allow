@@ -1,6 +1,6 @@
 # Cloud / VPS providers
-14061:block  # DigitalOcean
-62567:block  # DigitalOcean (Private Interconnect)
+#14061:block  # DigitalOcean
+#62567:block  # DigitalOcean (Private Interconnect)
 #16276:block  # OVH SAS
 #45102:block  # Alibaba
 #40021:block  # Contabo
@@ -108,4 +108,4 @@
 #24651:managed_challenge  # Balticom
 
 #Allow
-14593:whitelist # Space Exploration Technologies Corporation (spacex.com)
+#14593:whitelist # Space Exploration Technologies Corporation (spacex.com)
