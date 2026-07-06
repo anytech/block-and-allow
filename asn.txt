@@ -46,6 +46,7 @@
 31898:block  # Oracle 
 63949:block  # Linode/Akamai 
 132203:block # Tencent 
+45090:block  # Tencent
 
 # Crawlers / scrapers
 209366:managed_challenge # SEMrush
@@ -84,7 +85,7 @@
 7303:managed_challenge   # Telecom Argentina
 24560:managed_challenge  # Bharti Airtel (India)
 9009:managed_challenge   # M247 Europe SRL (VPN/proxy provider)
-209372:v # WS Telecom Inc (proxy)
+209372:managed_challenge # WS Telecom Inc (proxy)
 209043:managed_challenge # IPRoyal Services (residential proxy provider)
 135905:managed_challenge # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 327934:managed_challenge # Tunisie-Telecom (Tunisia)
