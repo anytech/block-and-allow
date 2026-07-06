@@ -52,6 +52,8 @@
 209366:managed_challenge # SEMrush
 13238:managed_challenge  # YANDEX
 12816:managed_challenge  # Leibniz-Rechenzentrum
+397630:block             # Blazing SEO, LLC (= Sprious/Rayobyte)
+S20001:managed_challenge # Blazing SEO, LLC (= Sprious/Rayobyte) (Residential Also)
 
 # China / Russia
 4837:managed_challenge   # CHINA UNICOM China169 Backbone
