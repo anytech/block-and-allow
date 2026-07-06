@@ -36,7 +36,6 @@
 62633:block  # HostRush (US)
 11320:block  # LightEdge Solutions (US)
 21859:block  # Zenlayer Inc (Portugal/US)
-137409:block # GSL Networks (Singapore)
 211590:block # Bucklog SARL (France hosting)
 47890:block  # Unmanaged Ltd (Romania hosting)
 201002:block # PebbleHost Ltd (UK hosting)
