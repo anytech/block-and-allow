@@ -24,6 +24,7 @@
 142513:block # LEVOTEL BIGNET
 206092:block # F.n.s. Holdings
 23033:block  # Wowrack
+27323:block  # Wowrack
 63916:block  # IPTELECOM
 62240:block  # Clouvider
 209274:block # Kraken Network ISP
