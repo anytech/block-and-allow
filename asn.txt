@@ -50,6 +50,7 @@
 45090:block  # Tencent
 137280:block # Kingsoft Cloud 
 204287:block # HostRoyale (NZ)
+4229:block # Zenlayer Inc
 
 # Crawlers / scrapers
 #209366:managed_challenge # SEMrush
