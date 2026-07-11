@@ -48,11 +48,13 @@
 63949:block  # Linode/Akamai 
 132203:block # Tencent 
 45090:block  # Tencent
+137280:block # Kingsoft Cloud 
+204287:block # HostRoyale (NZ)
 
 # Crawlers / scrapers
-209366:managed_challenge # SEMrush
-13238:managed_challenge  # YANDEX
-12816:managed_challenge  # Leibniz-Rechenzentrum
+#209366:managed_challenge # SEMrush
+#13238:managed_challenge  # YANDEX
+#12816:managed_challenge  # Leibniz-Rechenzentrum
 397630:block             # Blazing SEO, LLC (= Sprious/Rayobyte)
 20001:managed_challenge # Blazing SEO, LLC (= Sprious/Rayobyte) (Residential Also)
 
