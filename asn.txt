@@ -1,5 +1,5 @@
 # Cloud / VPS providers
-14061:block  # DigitalOcean
+#14061:block  # DigitalOcean
 62567:block  # DigitalOcean (Private Interconnect)
 16276:block  # OVH SAS
 45102:block  # Alibaba
